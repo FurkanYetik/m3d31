@@ -1,0 +1,44 @@
+{
+  "models": [
+    {
+      "name": "Duck (glTF)",
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Duck/glTF/Duck.gltf",
+      "format": "gltf"
+    },
+    {
+      "name": "Avocado (glTF)",
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Avocado/glTF/Avocado.gltf",
+      "format": "gltf"
+    },
+    {
+      "name": "Damaged Helmet (glTF)",
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/DamagedHelmet/glTF/DamagedHelmet.gltf",
+      "format": "gltf"
+    },
+    {
+      "name": "Flight Helmet (glTF)",
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/FlightHelmet/glTF/FlightHelmet.gltf",
+      "format": "gltf"
+    },
+    {
+      "name": "Suzanne (glTF)",
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Suzanne/glTF/Suzanne.gltf",
+      "format": "gltf"
+    },
+    {
+      "name": "Cube (OBJ)",
+      "url": "/models/obj/cube.obj",
+      "format": "obj"
+    },
+    {
+      "name": "Teapot (OBJ)",
+      "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/examples/models/obj/teapot.obj",
+      "format": "obj"
+    },
+    {
+      "name": "Male Head (OBJ)",
+      "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/examples/models/obj/male02/male02.obj",
+      "format": "obj"
+    }
+  ]
+} 
